@@ -1,6 +1,6 @@
 .idea/
 temp_*.py
-*/temp_*.py
+**/temp_*.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
